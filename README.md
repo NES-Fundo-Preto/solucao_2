@@ -1,5 +1,7 @@
 ## Project structure
 
+```
+
 otimizacao-sedes/
 │
 ├── data/
@@ -28,3 +30,5 @@ otimizacao-sedes/
 ├── requirements.txt      # dependências
 ├── README.md             # explicação do projeto
 └── .gitignore
+
+```
