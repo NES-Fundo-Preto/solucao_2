@@ -1,1 +1,0 @@
-# limpeza e preparação
