@@ -32,3 +32,4 @@ otimizacao-sedes/
 └── .gitignore
 
 ```
+Link da planilha com melhores resultados obtidos (https://docs.google.com/spreadsheets/d/1ELe9pUmKPxV-iu4U52bXBV7lmw7gPRc4XdhFj4P-Z2Q/edit?usp=sharing)
